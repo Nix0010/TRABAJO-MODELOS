@@ -1,5 +1,5 @@
-# TALLER PRÁCTICO
-Modelado de Proceso de Inscripción Intersemestral FESC
+# Taller práctico: Modelado de Proceso de Inscripción Intersemestral FESC
+
 
 El proceso de inscripción a cursos intersemestrales en la Fundación de Estudios Superiores Comfanorte (FESC) involucra múltiples actores y actividades que requieren coordinación precisa para garantizar que los estudiantes puedan registrarse correctamente en las materias deseadas. Este documento presenta un diagrama de actividades UML que modela de manera detallada el flujo de inscripción, mostrando las interacciones entre los estudiantes, el sistema académico, la coordinación académica, la tesorería y los docentes.
 
